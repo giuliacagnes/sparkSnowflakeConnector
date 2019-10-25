@@ -1,0 +1,13 @@
+.idea
+*.class
+*.log
+*~
+.DS_Store
+.*
+*.iml
+!.gitignore
+!.gitattributes
+target
+project/target
+project/project/project
+spark-warehouse
